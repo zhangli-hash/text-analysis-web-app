@@ -1,0 +1,6 @@
+streamlit
+pyecharts
+streamlit-echarts
+jieba
+requests
+beautifulsoup4
